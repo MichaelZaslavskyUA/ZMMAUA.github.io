@@ -1,2 +1,2 @@
-# ZMMAUA.github.io
+# Zaslavskyi Michael
 My first published site
