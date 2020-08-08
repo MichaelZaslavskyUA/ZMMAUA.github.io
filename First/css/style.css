@@ -1,0 +1,88 @@
+*, ::after, ::before{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Tahoma, sans-serif;
+}
+
+.section{
+    padding: 30px 10%;
+}
+.main-header{
+    margin-top: 80px;
+    color: #333;
+    line-height: 1.5;
+    font-size: 24px;
+    text-align: center;
+}
+
+.main-header span{
+    text-transform: uppercase;
+    font-weight: 900;
+    display: block;
+}
+
+.main{
+    margin-top: 80px;
+    text-align: center;
+}
+
+.form-header{
+    font-size: 20px;
+    font-weight: 900;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.video, .form{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.form{
+    text-align: center;
+    border: 5px solid #2727d9;
+    padding: 20px;
+    height: 309px;
+    margin-left: 30px;
+}
+
+input{
+    font-size: 18px;
+    width: 300px;
+    border: 1px solid #333;
+    padding: 17px;
+    display: block;
+    margin-bottom: 11px;
+}
+
+.btn{
+   font-size: 18px;
+   font-weight: 900;
+   color: #fff;
+   background-color: #2727d9;
+   border: none;
+   width: 300px;
+   height: 60px; 
+   display: block;
+   margin: 11px auto;
+}
+
+.col{
+    display: inline-block;
+    text-align: center;
+    margin: 10px 50px;
+}
+
+.feature-header{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.feature{
+    margin: 60px auto;
+    text-align: center;
+}
