@@ -1,0 +1,14 @@
+.header {
+  font-size: 20px;
+  line-height: 1.5;
+  margin: 20px;
+  text-align: center;
+  background-color: #aa33aa;
+  color: #fff;
+}
+.header span {
+  display: block;
+}
+.header strong {
+  text-transform: uppercase;
+}
